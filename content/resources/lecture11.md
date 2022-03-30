@@ -4,6 +4,7 @@ description: This file covers lecture on how to prove Optimistic VC Inequality w
   the help of theorem and also an exercise attached to it.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/1ed92806572263179de06b7afa5d5f5c_lecture11.pdf
 file_type: application/pdf
+parent_uid: a1b5ab94-b32e-92a2-777b-3ce81b841896
 resourcetype: Document
 title: lecture11.pdf
 uid: 1ed92806-5722-6317-9de0-6b7afa5d5f5c
